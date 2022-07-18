@@ -4,6 +4,8 @@ My solutions to HackerRank Challenges (Java)
 ## Random Challenges
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/e767170270e491fb738e4cb8e2fb5b2d0f14ed7d/Random%20Challenges/FizzBuzz.java"> FizzBuzz </a>
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/29550667896989225f29c93ba77aeb5b2e60c6a0/Random%20Challenges/If-Else.java"> Java If-Else (Easy) </a>
+#### <a href="https://github.com/noufalsalem/HackerRank/blob/33469516914e6c85767cf533ef9dbbecbd1f7046/Random%20Challenges/Stdin%20and%20Stdout%20II.java"> Stdin and Stdout II (Easy) </a>
+
 ## 1 Week Preparation Kit
 ### First Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Plus%20Minus.java"> Plus Minus </a>

@@ -9,7 +9,6 @@ My solutions to HackerRank Challenges (Java)
 ## 1 Week Preparation Kit
 ### First Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Plus%20Minus.java"> Plus Minus </a>
-- plusMinus() function takes INTAGER_ARRAY arr as paramater
 - For an input of an array of 5, determine how many numbers are positive, how many are negative, how many are zero, and the ratio of each. 
 
 ### Second Challenge

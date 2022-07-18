@@ -1,6 +1,6 @@
 // Java 8
 // get input for array size, get input for array elements, sort array, then pull middle element. 
-
+// Array.sort(arr); <-- (in main method) for fastest time complexity. otherwise, use bubbleSort()
 import java.io.*;
 import java.util.*;
 
@@ -14,9 +14,9 @@ public class Solution {
     for (int i = 0; i < n; i++) {
       arr[i] = scanner.nextInt();
   }
+   scanner.close();
     
-    Array.sort(arr);
-    
-    System.out.println(arr[(n/2)]); 
+   Arrays.sort(arr, 0, n);
+   System.out.println(arr[(n/2)]); 
 }
-
+}

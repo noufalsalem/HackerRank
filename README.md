@@ -14,12 +14,12 @@ My solutions to HackerRank Challenges (Java)
 
 ### Second Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Mini-Max%20Sum.java"> Mini-Max Sum </a>
-- "Mini-Max Sum" - logic used in my code: totalSum - max = minSum, totalSum - min = maxSum 
 - For an input of an array of 5, determine the minimum sum of 4/5 numbers, the maximum sum of 4/5 numbers, and display them on the same line with space in between.
-- Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype. 
+- Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype
 
 ### Third Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/9bd99c47d230721789be72da2ef8c9c6d888170f/1%20Week%20Preparation%20Kit/Time%20Conversion.java"> Time Conversion </a>
+- Input time of 12hr format should be converted to 24hr format and then printed
 
 
 #### To be updated soon

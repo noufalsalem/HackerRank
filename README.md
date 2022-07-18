@@ -1,10 +1,10 @@
 # HackerRank
 Solutions to HackerRank 1 Week Preparation Kit
 
-# First Challenge
-Plus Minus 
+### First Challenge
+"Plus Minus" - plusMinus() function takes INTAGER_ARRAY arr as paramater
 
-# Second Challenge
+### Second Challenge
 Mini-Max Sum
 
-## To be updated soon
+#### To be updated soon

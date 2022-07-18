@@ -19,7 +19,7 @@ My solutions to HackerRank Challenges (Java)
 - Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype. 
 
 ### Third Challenge
-#### <a href=""> Time Conversion </a>
+#### <a href="https://github.com/noufalsalem/HackerRank/blob/9bd99c47d230721789be72da2ef8c9c6d888170f/1%20Week%20Preparation%20Kit/Time%20Conversion.java"> Time Conversion </a>
 
 
 #### To be updated soon

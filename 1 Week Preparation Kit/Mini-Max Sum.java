@@ -16,7 +16,7 @@ public class Solution {
        // totalSum - max = minSum, totalSum - min = maxSum
        int min = arr[0];
        int max = arr[0];
-       long totalSum = 0; //challenge states output could be greater                                than 32 bit integer, therefore ----> long
+       long totalSum = 0; //challenge states output could be greater than 32 bit integer, therefore --> long
        
        for (int n : arr) {
            totalsum += n;

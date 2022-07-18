@@ -3,6 +3,7 @@ My solutions to HackerRank Challenges
 
 ## Random Challenges
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/e767170270e491fb738e4cb8e2fb5b2d0f14ed7d/Random%20Challenges/FizzBuzz.java"> FizzBuzz </a>
+#### <a href="https://github.com/noufalsalem/HackerRank/blob/29550667896989225f29c93ba77aeb5b2e60c6a0/Random%20Challenges/If-Else.java"> Java If-Else (Easy) </a>
 ## 1 Week Preparation Kit
 ### First Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Plus%20Minus.java"> Plus Minus </a>

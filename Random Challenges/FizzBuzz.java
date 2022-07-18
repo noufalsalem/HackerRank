@@ -21,13 +21,13 @@ class Result {
     public static void fizzBuzz(int n) {
     
     for (int i = 1; i <= n; i++) {
-        if (i % 5 == 0 && i % 3 == 0) {
+        if (i % 5 == 0 && i % 3 == 0) { // if i is a multiple of BOTH 5 and 3
             System.out.println("FizzBuzz");
-        } else if (i % 3 == 0 && i % 5 != 0) {
+        } else if (i % 3 == 0 && i % 5 != 0) { // if i is a multiple of 3 but not 5
             System.out.println("Fizz");
-        } else if (i % 5 == 0 && i % 3 != 0) {
+        } else if (i % 5 == 0 && i % 3 != 0) { // if i is a multiple of 5 but not 3
             System.out.println("Buzz");
-        } else {
+        } else { // if i is NOT a multiple of neither 3 NOR 5
             System.out.println(i);
         }
     }

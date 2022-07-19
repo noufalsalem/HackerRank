@@ -6,7 +6,7 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/29550667896989225f29c93ba77aeb5b2e60c6a0/Random%20Challenges/If-Else.java"> Java If-Else (Easy) </a>
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/33469516914e6c85767cf533ef9dbbecbd1f7046/Random%20Challenges/Stdin%20and%20Stdout%20II.java"> Stdin and Stdout II (Easy) </a>
 #### <a href="Random Challenges/Find The Median.java"> Find The Median (Easy) </a>
-#### <a href="Random Challenges/Java Loops 2.java"> Java Loops 2 (Easy) </a>
+#### <a href="Random Challenges/Java Loops 2.java"> Java Loops II (Easy) </a>
 
 ## 1 Week Preparation Kit
 ### First Challenge

@@ -8,7 +8,8 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="Random Challenges/Find The Median.java"> Find The Median (Easy) </a>
 #### <a href="Random Challenges/Java Loops 2.java"> Java Loops II (Easy) </a>
 
-## 1 Week Preparation Kit
+# 1 Week Preparation Kit
+## Day One
 ### First Challenge
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Plus%20Minus.java"> Plus Minus </a>
 - For an input of an array of 5, determine how many numbers are positive, how many are negative, how many are zero, and the ratio of each. 
@@ -22,5 +23,6 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/9bd99c47d230721789be72da2ef8c9c6d888170f/1%20Week%20Preparation%20Kit/Time%20Conversion.java"> Time Conversion </a>
 - Input time of 12hr format should be converted to 24hr format and then printed
 
+## Day Two
 
 #### To be updated soon

@@ -7,6 +7,7 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="https://github.com/noufalsalem/HackerRank/blob/33469516914e6c85767cf533ef9dbbecbd1f7046/Random%20Challenges/Stdin%20and%20Stdout%20II.java"> Stdin and Stdout II (Easy) </a>
 #### <a href="Random Challenges/Find The Median.java"> Find The Median (Easy) </a>
 #### <a href="Random Challenges/Java Loops 2.java"> Java Loops II (Easy) </a>
+#### <a href="Random Challenges/Java End-of-File.java"> Java End-of-File (Easy) </a>
 
 # 1 Week Preparation Kit
 ## Day One

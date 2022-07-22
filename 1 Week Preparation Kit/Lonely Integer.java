@@ -32,7 +32,8 @@ class Result {
                 if (!map.containsKey(elem)) {  
                     map.put(elem, 1);
                 } else { 
-                    map.put(elem, map.get(elem)+1);
+                    map.put(elem, map.get(elem)+1); 
+                    //^^ second value (elem +1) is irrelevant as long as it's a # over 1. if you replace "map.get(elem)+1" with just the number "2", it will still work. 
                 }
             }
             

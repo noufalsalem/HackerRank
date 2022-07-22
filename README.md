@@ -8,6 +8,7 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="Random Challenges/Find The Median.java"> Find The Median (Easy) </a>
 #### <a href="Random Challenges/Java Loops 2.java"> Java Loops II (Easy) </a>
 #### <a href="Random Challenges/Java End-of-File.java"> Java End-of-File (Easy) </a>
+#### <a href="Random Challenges/Java Currency Formatter.java"> Java Currency Formatter (Easy) </a>
 
 # 1 Week Preparation Kit
 ## Day One

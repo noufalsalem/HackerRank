@@ -26,5 +26,8 @@ My solutions to HackerRank Challenges (Java)
 - Input time of 12hr format should be converted to 24hr format and then printed
 
 ## Day Two
+### First Challenge
+#### <a href="1 Week Preparation Kit/Lonely Integer.java"> Lonely Integer </a> 
+- From a given array where every integer occurs twice except for one, return the unique element that occurs only once. 
 
 #### To be updated soon

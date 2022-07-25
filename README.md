@@ -46,29 +46,63 @@ My solutions to HackerRank Challenges (Java)
 </table>
 
 
-# 1 Week Preparation Kit
+## 1 Week Preparation Kit
 
-## Day One
-### First Challenge
-#### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Plus%20Minus.java"> Plus Minus </a>
-- For an input of an array of 5, determine how many numbers are positive, how many are negative, how many are zero, and the ratio of each. 
+<table>
+  <tr>
+    <th> Day 1 </th> 
+    <th> Description </th>
+    <th> Day 2 </th>
+    <th> Description </th> 
+    <th> Day 3 </th>
+    <th> Description </th>
+    <th> Day 4 </th> 
+    <th> Day 5 </th>
+    <th> Day 6 </th>
+    <th> Day 7 </th> 
+  </tr>
+  
+  <tr>
+    <th> <a href="1 Week Preparation Kit/Plus Minus.java"> Plus Minus </a> </th>
+    <td> For an input of an array of 5, determine how many numbers are positive, how many are negative, how many are zero, and the ratio of each. </td>
+    <th><a href="1 Week Preparation Kit/Lonely Integer.java"> Lonely Integer </a>  </th>
+    <td> From an input of array of <i>n</i> integers - where every integer occurs twice except for one - return the unique element that occurs only once. </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td<
+  </tr>
+  
+  <tr>
+    <th> <a href="1 Week Preparation Kit/Mini-Max Sum.java"> Mini-Max Sum </a> </th>
+    <td> Given an array of 5, determine the minimum sum of 4/5 numbers, the maximum sum of 4/5 numbers, and display them on the same line. Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype</td>
+    <th> <a href ="1 Week Preparation Kit/Diagonal Difference.java"> Diagonal Difference </a> </th>
+    <td> From an input of <i>n</i> for size of matrix, then input of <i>n</i> separated matrix elements a[i][j], return the absolute value of the diagonal difference from left to right, then right to left. </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td<
+    
+  </tr>
+  
+  <tr>
+    <th> <a href="1 Week Preparation Kit/Time Conversion.java"> Time Conversion </a> </th>
+    <td> Input time of 12hr format should be converted to 24hr format and then printed</td>
+    <th> <a href=""> Counting Sort 1 </a> </th>
+    <td> To be updated </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td>
+    <th> </th>
+    <td> </td<
+  </tr>
+  
+</table>
 
-### Second Challenge
-#### <a href="https://github.com/noufalsalem/HackerRank/blob/d774976133213fb64082318c5c0d0579672c5669/1%20Week%20Preparation%20Kit/Mini-Max%20Sum.java"> Mini-Max Sum </a>
-- For an input of an array of 5, determine the minimum sum of 4/5 numbers, the maximum sum of 4/5 numbers, and display them on the same line with space in between.
-- Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype
-
-### Third Challenge
-#### <a href="https://github.com/noufalsalem/HackerRank/blob/9bd99c47d230721789be72da2ef8c9c6d888170f/1%20Week%20Preparation%20Kit/Time%20Conversion.java"> Time Conversion </a>
-- Input time of 12hr format should be converted to 24hr format and then printed
-
-## Day Two
-### First Challenge
-#### <a href="1 Week Preparation Kit/Lonely Integer.java"> Lonely Integer </a> 
-- From an input of array of <i>n</i> integers - where every integer occurs twice except for one - return the unique element that occurs only once. 
-
-### Second Challenge
-#### <a href ="1 Week Preparation Kit/Diagonal Difference.java"> Diagonal Difference </a> 
-- From an input of <i>n</i> for size of matrix, then input of <i>n</i> separated matrix elements a[i][j], return the absolute value of the diagonal difference from left to right, then right to left. 
 
 #### To be updated soon

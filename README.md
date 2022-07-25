@@ -43,6 +43,11 @@ My solutions to HackerRank Challenges (Java)
   <th> <a href="Random Challenges/Java Currency Formatter.java"> Java Currency Formatter (Easy) </a> </th>
   <td> Read input from STDIN of a (double) payment. Use NumberFormat to format payment to U.S., India, China, and France locale. India does not have a built=in Locale, so you must create one. Then, print the formatted payments. </td> 
   </tr>
+  
+  <tr>
+  <th> <a href="Random Challenges/Java Strings.java"> Java Strings Intro (Easy) </a> </th>
+  <td> Read input of Strings A and B. Sum their lengths. Determine if A is lexographically larger than B. Capitalize first letters and print. </td> 
+  </tr>
 </table>
 
 

@@ -30,4 +30,8 @@ My solutions to HackerRank Challenges (Java)
 #### <a href="1 Week Preparation Kit/Lonely Integer.java"> Lonely Integer </a> 
 - From an input of array of <i>n</i> integers - where every integer occurs twice except for one - return the unique element that occurs only once. 
 
+### Second Challenge
+#### <a href ="1 Week Preparation Kit/Diagonal Difference.java"> Diagonal Difference </a> 
+- From an input of <i>n</i> for size of matrix, then input of <i>n</i> separated matrix elements a[i][j], return the absolute value of the diagonal difference from left to right, then right to left. 
+
 #### To be updated soon

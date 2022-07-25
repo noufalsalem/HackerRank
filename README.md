@@ -48,6 +48,11 @@ My solutions to HackerRank Challenges (Java)
   <th> <a href="Random Challenges/Java Strings.java"> Java Strings Intro (Easy) </a> </th>
   <td> Read input of Strings A and B. Sum their lengths. Determine if A is lexographically larger than B. Capitalize first letters and print. </td> 
   </tr>
+  
+  <tr>
+  <th> <a href = "Random Challenges/Java Substring.java"> Java Substrings (Easy) </a></th>
+  <td> Read String input <i>s</i> and then integers <i>start</i> & <i>end</i> for the substring. Print the range of characters within substring range.</td>
+  </tr>
 </table>
 
 

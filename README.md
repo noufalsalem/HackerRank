@@ -61,7 +61,7 @@ My solutions to HackerRank Challenges (Java)
   
   <tr>
   <th> <a href = "Random Challenges/Flipping The Matrix.java"> Flipping The Matrix (Intermediate)</a></th>
-  <td> </td>
+  <td> Flip a given matrix any number of times until the largest number is at the upper left quadrant. Then return the maximum possible sum.</td>
   </tr>
 </table>
 

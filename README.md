@@ -107,8 +107,8 @@ My solutions to HackerRank Challenges (Java)
   <tr>
     <th> <a href="1 Week Preparation Kit/Time Conversion.java"> Time Conversion </a> </th>
     <td> Input time of 12hr format should be converted to 24hr format and then printed</td>
-    <th> <a href=""> Counting Sort 1 </a> </th>
-    <td> To be updated </td>
+    <th> <a href="1 Week Preparation Kit/Counting Sort 1.java"> Counting Sort 1 </a> </th>
+    <td> Given a list of integers, count and return the number of times each value appears as an array of integers. </td>
     <th> </th>
     <td> </td>
     <th> </th>

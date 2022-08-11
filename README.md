@@ -10,7 +10,7 @@ My solutions to HackerRank Challenges (Java)
   </tr>
   
   <tr>
-    <th><a href="Random Challenges/FizzBuzz.java"> FizzBuzz </a></td>
+    <th><a href="Random Challenges/FizzBuzz.java"> FizzBuzz (Basic) </a></td>
   <td>Return "FizzBuzz" if <i>i</i> is multiple of both 3 & 5, return "Fizz" if multiple of 3 but not 5, return "Buzz" if multiple of 5 but not 3, return <i>i</i> otherwise.</td>
   </tr>
   
@@ -57,6 +57,11 @@ My solutions to HackerRank Challenges (Java)
   <tr>
   <th> <a href = "Random Challenges/Java Substring Comparisons.java"> Substring Comparisons (Basic)</a></th>
   <td> Given a string, <i>s</i>, and an integer, <i>k</i>, complete the function so that it finds the <b><i>lexicographically</i></b> smallest and largest substrings of length.</td>
+  </tr>
+  
+  <tr>
+  <th> <a href = "Random Challenges/Flipping The Matrix.java"> Flipping The Matrix (Intermediate)</a></th>
+  <td> </td>
   </tr>
 </table>
 

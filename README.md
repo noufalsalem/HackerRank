@@ -53,6 +53,11 @@ My solutions to HackerRank Challenges (Java)
   <th> <a href = "Random Challenges/Java Substring.java"> Java Substrings (Easy) </a></th>
   <td> Read String input <i>s</i> and then integers <i>start</i> & <i>end</i> for the substring. Print the range of characters within substring range.</td>
   </tr>
+  
+  <tr>
+  <th> <a href = "Random Challenges/Java Substring Comparisons.java"> Substring Comparisons (Basic)</a></th>
+  <td> Given a string, <i>s</i>, and an integer, <i>k</i>, complete the function so that it finds the <b><i>lexicographically</i></b> smallest and largest substrings of length.</td>
+  </tr>
 </table>
 
 

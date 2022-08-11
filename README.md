@@ -66,7 +66,7 @@ My solutions to HackerRank Challenges (Java)
 </table>
 
 
-## 1 Week Preparation Kit
+## Preparation Kit
 
 <table>
   <tr>
@@ -74,12 +74,6 @@ My solutions to HackerRank Challenges (Java)
     <th> Description </th>
     <th> Day 2 </th>
     <th> Description </th> 
-    <th> Day 3 </th>
-    <th> Description </th>
-    <th> Day 4 </th> 
-    <th> Day 5 </th>
-    <th> Day 6 </th>
-    <th> Day 7 </th> 
   </tr>
   
   <tr>
@@ -87,12 +81,6 @@ My solutions to HackerRank Challenges (Java)
     <td> For an input of an array of 5, determine how many numbers are positive, how many are negative, how many are zero, and the ratio of each. </td>
     <th><a href="1 Week Preparation Kit/Lonely Integer.java"> Lonely Integer </a>  </th>
     <td> From an input of array of <i>n</i> integers - where every integer occurs twice except for one - return the unique element that occurs only once. </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td<
   </tr>
   
   <tr>
@@ -100,12 +88,6 @@ My solutions to HackerRank Challenges (Java)
     <td> Given an array of 5, determine the minimum sum of 4/5 numbers, the maximum sum of 4/5 numbers, and display them on the same line. Challenge hints that the output could be greater than a 32-bit integer, therefore have totalSum be of "long" datatype</td>
     <th> <a href ="1 Week Preparation Kit/Diagonal Difference.java"> Diagonal Difference </a> </th>
     <td> From an input of <i>n</i> for size of matrix, then input of <i>n</i> separated matrix elements a[i][j], return the absolute value of the diagonal difference from left to right, then right to left. </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td<
     
   </tr>
   
@@ -114,15 +96,9 @@ My solutions to HackerRank Challenges (Java)
     <td> Input time of 12hr format should be converted to 24hr format and then printed</td>
     <th> <a href="1 Week Preparation Kit/Counting Sort 1.java"> Counting Sort 1 </a> </th>
     <td> Given a list of integers, count and return the number of times each value appears as an array of integers. </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td>
-    <th> </th>
-    <td> </td<
   </tr>
   
 </table>
 
 
-#### To be updated soon
+#### To be updated when I have the time

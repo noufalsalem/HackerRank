@@ -10,7 +10,7 @@ My solutions to HackerRank Challenges (Java)
   </tr>
   
   <tr>
-    <th><a href="Random Challenges/FizzBuzz.java"> FizzBuzz (Basic) </a></td>
+    <th><a href="Random Challenges/FizzBuzz.java"> FizzBuzz (Easy) </a></td>
   <td>Return "FizzBuzz" if <i>i</i> is multiple of both 3 & 5, return "Fizz" if multiple of 3 but not 5, return "Buzz" if multiple of 5 but not 3, return <i>i</i> otherwise.</td>
   </tr>
   
